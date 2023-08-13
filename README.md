@@ -26,11 +26,11 @@
 
 ## Solved problems
 ### String
-- [문자 뒤집기](https://github.com/zserinz/Algorithms/blob/main/src/a_String/FlipWord.java)
-- [지정된 문자 뒤집기](https://github.com/zserinz/Algorithms/blob/main/src/a_String/FlipSpecificWord.java)
-- [회문 문자열](https://github.com/zserinz/Algorithms/blob/main/src/a_String/Palindrome.java)
-    - [문제 해결 조건 추가](https://github.com/zserinz/Algorithms/blob/main/src/a_String/ValidPalindrome.java)
-- [중복 문자 제거](https://github.com/zserinz/Algorithms/blob/main/src/a_String/RemoveDuplicateChar.java)
+- [문자 뒤집기](https://github.com/zserinz/Algorithms/blob/main/src/string/FlipWord.java)
+- [지정된 문자 뒤집기](https://github.com/zserinz/Algorithms/blob/main/src/string/FlipSpecificWord.java)
+- [회문 문자열](https://github.com/zserinz/Algorithms/blob/main/src/string/Palindrome.java)
+    - [문제 해결 조건 추가](https://github.com/zserinz/Algorithms/blob/main/src/string/ValidPalindrome.java)
+- [중복 문자 제거](https://github.com/zserinz/Algorithms/blob/main/src/string/RemoveDuplicateChar.java)
 
 ### Recursive
 - [로봇 경로 탐색](https://github.com/zserinz/Algorithms/blob/main/src/recursive/RobotGridMap.java)
