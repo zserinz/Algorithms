@@ -32,6 +32,14 @@
     - [문제 해결 조건 추가](https://github.com/zserinz/Algorithms/blob/main/src/string/ValidPalindrome.java)
 - [중복 문자 제거](https://github.com/zserinz/Algorithms/blob/main/src/string/RemoveDuplicateChar.java)
 
+### Array
+- [두 수의 합](https://github.com/zserinz/Algorithms/blob/main/src/array/TwoSum.kt)
+- [빗물 트래핑](https://github.com/zserinz/Algorithms/blob/main/src/array/TrappingRainWater.kt)
+- [세 수의 합](https://github.com/zserinz/Algorithms/blob/main/src/array/ThreeSum.kt)
+- [배열 파티션](https://github.com/zserinz/Algorithms/blob/main/src/array/ArrayPartition.kt)
+- [자신을 제외한 배열의 곱](https://github.com/zserinz/Algorithms/blob/main/src/array/ProductOfArrayExceptSelf.kt)
+- [주식을 사고 팔기 좋은 시점](https://github.com/zserinz/Algorithms/blob/main/src/array/Stock.kt)
+
 ### Recursive
 - [로봇 경로 탐색](https://github.com/zserinz/Algorithms/blob/main/src/recursive/RobotGridMap.java)
 - [하노이의 탑](https://github.com/zserinz/Algorithms/blob/main/src/recursive/HanoiTowers.java)
