@@ -26,22 +26,22 @@
 
 ## Solved problems
 ### String
-- [문자 뒤집기](https://github.com/zserinz/Algorithms/blob/main/src/string/FlipWord.java)
-- [지정된 문자 뒤집기](https://github.com/zserinz/Algorithms/blob/main/src/string/FlipSpecificWord.java)
-- [회문 문자열](https://github.com/zserinz/Algorithms/blob/main/src/string/Palindrome.java)
-    - [문제 해결 조건 추가](https://github.com/zserinz/Algorithms/blob/main/src/string/ValidPalindrome.java)
-- [중복 문자 제거](https://github.com/zserinz/Algorithms/blob/main/src/string/RemoveDuplicateChar.java)
+- [문자 뒤집기(FlipWord)](https://github.com/zserinz/Algorithms/blob/main/src/string/FlipWord.java)
+- [지정된 문자 뒤집기(Flip specific word)](https://github.com/zserinz/Algorithms/blob/main/src/string/FlipSpecificWord.java)
+- [회문 문자열(Palindrome)](https://github.com/zserinz/Algorithms/blob/main/src/string/Palindrome.java)
+    - [문제 해결 조건 추가(Valid palindrome)](https://github.com/zserinz/Algorithms/blob/main/src/string/ValidPalindrome.java)
+- [중복 문자 제거(Remove duplicate char)](https://github.com/zserinz/Algorithms/blob/main/src/string/RemoveDuplicateChar.java)
 
 ### Array
-- [두 수의 합](https://github.com/zserinz/Algorithms/blob/main/src/array/TwoSum.kt)
-- [빗물 트래핑](https://github.com/zserinz/Algorithms/blob/main/src/array/TrappingRainWater.kt)
-- [세 수의 합](https://github.com/zserinz/Algorithms/blob/main/src/array/ThreeSum.kt)
-- [배열 파티션](https://github.com/zserinz/Algorithms/blob/main/src/array/ArrayPartition.kt)
-- [자신을 제외한 배열의 곱](https://github.com/zserinz/Algorithms/blob/main/src/array/ProductOfArrayExceptSelf.kt)
-- [주식을 사고 팔기 좋은 시점](https://github.com/zserinz/Algorithms/blob/main/src/array/Stock.kt)
+- [두 수의 합(Two sum)](https://github.com/zserinz/Algorithms/blob/main/src/array/TwoSum.kt)
+- [빗물 트래핑(Trapping rain water)](https://github.com/zserinz/Algorithms/blob/main/src/array/TrappingRainWater.kt)
+- [세 수의 합(Three sum)](https://github.com/zserinz/Algorithms/blob/main/src/array/ThreeSum.kt)
+- [배열 파티션(Array partition)](https://github.com/zserinz/Algorithms/blob/main/src/array/ArrayPartition.kt)
+- [자신을 제외한 배열의 곱(Product of array except self)](https://github.com/zserinz/Algorithms/blob/main/src/array/ProductOfArrayExceptSelf.kt)
+- [주식을 사고 팔기 좋은 시점(Best time to buy and sell stock)](https://github.com/zserinz/Algorithms/blob/main/src/array/Stock.kt)
 
 ### Recursive
-- [로봇 경로 탐색](https://github.com/zserinz/Algorithms/blob/main/src/recursive/RobotGridMap.java)
-- [하노이의 탑](https://github.com/zserinz/Algorithms/blob/main/src/recursive/HanoiTowers.java)
-- [요세푸스 문제](https://github.com/zserinz/Algorithms/blob/main/src/recursive/Josephus.java)
-- [최대 영역](https://github.com/zserinz/Algorithms/blob/main/src/recursive/BiggestColorSpots.java)
+- [로봇 경로 탐색(Robot grid map)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/RobotGridMap.java)
+- [하노이의 탑(Hanoi towers)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/HanoiTowers.java)
+- [요세푸스 문제(Josephus)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/Josephus.java)
+- [최대 영역(Biggest color spots)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/BiggestColorSpots.java)
