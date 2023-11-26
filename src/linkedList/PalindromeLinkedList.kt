@@ -5,9 +5,6 @@ import java.util.*
 /**
  * Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
  */
-class ListNode(var `val`: Int) {
-    var next: ListNode? = null
-}
 
 class PalindromeLinkedList {
     // 1. Deque를 사용하여 정방향 추출값, 역방향 추출값이 동일한지 확인해 본다.
