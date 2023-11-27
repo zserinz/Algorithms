@@ -3,7 +3,7 @@ package linkedList
 /**
  * Given the head of a singly linked list, reverse the list, and return the reversed list.
  */
-class ReverseLinkedList {
+class ReverseLinkedListI {
     // 1. recursive
     fun reverseList1(head: ListNode?): ListNode? {
         return reverse(head, null)
