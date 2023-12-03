@@ -49,6 +49,20 @@
 - [역순 연결 리스트 2(Revers linked list 2)](https://github.com/zserinz/Algorithms/blob/main/src/linkedList/ReverseLinkedListII.kt)
 - [페어의 노드 스왑(Swap nodes in pairs)](https://github.com/zserinz/Algorithms/blob/main/src/linkedList/SwapNodesInPairs.kt)
 
+### Stack & Queue
+- [일일 온도(Daily temperature)](https://github.com/zserinz/Algorithms/blob/main/src/stack_queue/DailyTemperatures.kt)
+- [원형 큐 디자인(Design circular Queue)](https://github.com/zserinz/Algorithms/blob/main/src/stack_queue/DesignCircularQueue.kt)
+- [스택을 이용한 큐 구현(Implement queue using stacks)](https://github.com/zserinz/Algorithms/blob/main/src/stack_queue/ImplementQueueUsingStacks.kt)
+- [큐를 이용한 스택 구현(Implement stack using queues)](https://github.com/zserinz/Algorithms/blob/main/src/stack_queue/ImplementStackUsingQueues.kt)
+- [중복 문자 제거(Remove Duplicate letters)](https://github.com/zserinz/Algorithms/blob/main/src/stack_queue/RemoveDuplicateLetters.kt)
+- [유효한 괄호(Valid parentheses)](https://github.com/zserinz/Algorithms/blob/main/src/stack_queue/ValidParentheses.kt)
+
+#### Deque & Priority Queue
+- [원형 데크 디자인(Design circular deque)](https://github.com/zserinz/Algorithms/blob/main/src/deque/DesignCircularDeque.kt)
+- [원점에서 가장 가까운 k개의 점(K closest points to origin)](https://github.com/zserinz/Algorithms/blob/main/src/priority_queue/KClosestPointsToOrigin.kt)
+- [k개 정렬 리스트 병합(Merge k sorted lists)](https://github.com/zserinz/Algorithms/blob/main/src/priority_queue/MergeKSortedLists.kt)
+- 
+
 ### Recursive
 - [로봇 경로 탐색(Robot grid map)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/RobotGridMap.java)
 - [하노이의 탑(Hanoi towers)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/HanoiTowers.java)
