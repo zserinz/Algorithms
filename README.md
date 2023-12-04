@@ -63,6 +63,13 @@
 - [k개 정렬 리스트 병합(Merge k sorted lists)](https://github.com/zserinz/Algorithms/blob/main/src/priority_queue/MergeKSortedLists.kt)
 - 
 
+### Hash Table
+- [해시맵 디자인(Design hash map)](https://github.com/zserinz/Algorithms/blob/main/src/hash_table/DesignHashMap.kt)
+- [완주하지 못한 선수(Athetes who didn't finish)](https://github.com/zserinz/Algorithms/blob/main/src/hash_table/AthletesWhoDidntFinish.java)
+- [보석과 돌(Jewels and stones)](https://github.com/zserinz/Algorithms/blob/main/src/hash_table/JewelsAndStones.kt)
+- [중복 문자 없는 가장 긴 부분 문자열(Longest substring without repeating characters)](https://github.com/zserinz/Algorithms/blob/main/src/hash_table/LongestSubstringWithoutRepeatingCharacters.kt)
+- [상위 k 빈도 엘리먼트(Top k frequent elements)](https://github.com/zserinz/Algorithms/blob/main/src/hash_table/TopKFrequentElements.kt)
+
 ### Recursive
 - [로봇 경로 탐색(Robot grid map)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/RobotGridMap.java)
 - [하노이의 탑(Hanoi towers)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/HanoiTowers.java)
