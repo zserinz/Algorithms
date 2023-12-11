@@ -61,7 +61,6 @@
 - [원형 데크 디자인(Design circular deque)](https://github.com/zserinz/Algorithms/blob/main/src/deque/DesignCircularDeque.kt)
 - [원점에서 가장 가까운 k개의 점(K closest points to origin)](https://github.com/zserinz/Algorithms/blob/main/src/priority_queue/KClosestPointsToOrigin.kt)
 - [k개 정렬 리스트 병합(Merge k sorted lists)](https://github.com/zserinz/Algorithms/blob/main/src/priority_queue/MergeKSortedLists.kt)
-- 
 
 ### Hash Table
 - [해시맵 디자인(Design hash map)](https://github.com/zserinz/Algorithms/blob/main/src/hash_table/DesignHashMap.kt)
@@ -75,3 +74,13 @@
 - [하노이의 탑(Hanoi towers)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/HanoiTowers.java)
 - [요세푸스 문제(Josephus)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/Josephus.java)
 - [최대 영역(Biggest color spots)](https://github.com/zserinz/Algorithms/blob/main/src/recursive/BiggestColorSpots.java)
+
+### DFS
+- [섬의 개수(Number of idlands)](https://github.com/zserinz/Algorithms/commit/58055742ae597a0869785d67327c25761d38f06b)
+- [전화번호 문자 조합(Letter combinations of a phone number)](https://github.com/zserinz/Algorithms/commit/3884bc0f573e2a4cc31a193aeaa395481e979815)
+- [순열(Permutations)](https://github.com/zserinz/Algorithms/commit/83203fdc416637fd9e89fba425061593bfb231ec)
+- [조합(Combinations)](https://github.com/zserinz/Algorithms/commit/ce1dc4f4ac59f7ed5bcf1a909390aeaac9a2b1e8)
+- [조합의 합(Combination sum)](https://github.com/zserinz/Algorithms/commit/1bead0a8bde4b4d931e548c701f4e9d48b93c939)
+- [부분 집합(Subsets)](https://github.com/zserinz/Algorithms/commit/f0cabe61776504c78a2087ee0450c18b222f6724)
+- [일정 재구성(Reconstruct itinerary)](https://github.com/zserinz/Algorithms/commit/460f977c0ae40a11bef893a5e8580af3e8d7be7e)
+- [코스 일정(Course schedule)](https://github.com/zserinz/Algorithms/commit/4161ae5a8721959e877ff00e7cf6fc174902920b)
