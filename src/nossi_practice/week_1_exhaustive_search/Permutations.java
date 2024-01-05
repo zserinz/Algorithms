@@ -1,4 +1,4 @@
-package exhaustive_search;
+package nossi_practice.week_1_exhaustive_search;
 
 import java.util.ArrayList;
 import java.util.List;

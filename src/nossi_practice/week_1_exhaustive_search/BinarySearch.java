@@ -1,4 +1,4 @@
-package exhaustive_search;
+package nossi_practice.week_1_exhaustive_search;
 
 public class BinarySearch {
     public int search1(int[] nums, int target) {

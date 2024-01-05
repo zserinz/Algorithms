@@ -1,4 +1,4 @@
-package exhaustive_search;
+package nossi_practice.week_1_exhaustive_search;
 
 public class WordSearch {
     public boolean exist(char[][] board, String word) {
