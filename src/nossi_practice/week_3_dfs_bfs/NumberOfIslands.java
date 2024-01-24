@@ -43,36 +43,50 @@ public class NumberOfIslands {
     }
 
     public int numIslands2(char[][] grid) {
-        int count = 0;
+        int islandCount = 0;
         rowLength = grid.length;
         colLength = grid[0].length;
         visited = new boolean[rowLength][colLength];
 
-        for (int i = 0; i < rowLength; i++) {
-            for (int j = 0; j < colLength; j++) {
-                if ((grid[i][j] == '1') && (!visited[i][j])) {
-                    dfs2(i, j, grid);
-                    count++;
+        for (int row = 0; row < rowLength; row++) {
+            for (int col = 0; col < colLength; col++) {
+                if (grid[row][col] == '1' && !visited[row][col]) {
+                    dfs2(row, col, grid);
+                    islandCount++;
                 }
             }
         }
 
-        return count;
+        return islandCount;
     }
 
-    public static boolean isValid(int r, int c, char[][] grid) {
-        return (r >= 0 && r < rowLength) && (c >= 0 && c < colLength) && (grid[r][c] == '1');
+    // 개선 1) isValid 함수의 if 조건 구문 분리
+    public static boolean isValid(int r, int c, char[][] grid, boolean[][] visited) {
+        // 1. 행 인덱스 범위 확인
+        boolean isRowValid = (r >= 0 && r < rowLength);
+
+        // 2. 열 인덱스 범위 확인
+        boolean isColValid = (c >= 0 && c < colLength);
+
+        if (!isRowValid || !isColValid) {
+            return false;
+        }
+
+        // 3. 방문하지 않은 육지인지 확인
+        boolean isLand = (grid[r][c] == '1' && !visited[r][c]);
+
+        return isLand;
     }
 
     private void dfs2(int r, int c, char[][] grid) {
         visited[r][c] = true;
+
+        // 개선 2) 4사분면 방향 검사를 반복문으로 작성
         for (int i = 0; i < 4; i++) {
             int nextRow = r + dr[i];
             int nextCol = c + dc[i];
-            if (isValid(nextRow, nextCol, grid)) {
-                if (!(visited[nextRow][nextCol])) {
-                    dfs2(nextRow, nextCol, grid);
-                }
+            if (isValid(nextRow, nextCol, grid, visited)) {
+                dfs2(nextRow, nextCol, grid);
             }
         }
     }
