@@ -127,10 +127,8 @@ public class Laboratory {
         // 0(빈 구역)에 1(벽) 세우기 -> 재귀 반복
         for (int i = row; i < N; i++, col = 0) {
             System.out.println("row" + i);
-
             for (int j = col; j < M; j++) {
                 System.out.println("col" + j);
-
                 if (map[i][j] == 0) {
                     map[i][j] = 1;
                     buildWall(count + 1, i, j + 1);
